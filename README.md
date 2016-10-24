@@ -31,6 +31,6 @@ visualization.linkage_image(linkage, track_joints=[("Joint 4", j4)]).show()
 
 raw_input("Press enter to exit.")
 ```
-Running this script produces the following graphic showing an example linkage mechanism and the path traced by the movement of one of its joints:
+Running this script produces the following graphic showing an example linkage mechanism and the path traced by the movement of one of its joints over time:
 
 ![Example Graphic](example_graphic.png)
