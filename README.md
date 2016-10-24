@@ -3,7 +3,7 @@
 Plynk is a Python library that provides geometric simulation of planar linkage mechanisms. 
 
 ## Installation
-Plynk depends on Matplotlib and numpy. 
+Plynk depends on Matplotlib and numpy and is built for Python 2.7.
 
 Plynk is a self-contained Python package. To use it, download the `plynk` folder and place it in the same directory as the code that imports it. 
 
