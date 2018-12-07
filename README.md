@@ -1,6 +1,8 @@
 # Plynk: A General Linkage Mechanism Simulator
 
-Plynk is a Python library that provides geometric simulation of planar linkage mechanisms. 
+Plynk is a Python library that provides geometric simulation of planar linkage mechanisms.
+
+![(example video of Plynk visualization)](gallop.gif)
 
 ## Installation
 Plynk depends on Matplotlib and numpy and is built for Python 2.7.
